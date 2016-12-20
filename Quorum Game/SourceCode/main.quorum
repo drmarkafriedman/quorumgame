@@ -25,6 +25,7 @@ class Main is Game
     action CreateGame
 
         output "drmaf"
+        output "drmaf"
 
         Exit()
 
