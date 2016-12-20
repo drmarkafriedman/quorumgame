@@ -26,6 +26,7 @@ class Main is Game
 
         output "drmaf"
         output "drmaf"
+        utput "drmaf"
 
         Exit()
 
